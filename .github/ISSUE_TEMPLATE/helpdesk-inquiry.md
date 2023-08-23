@@ -2,7 +2,7 @@
 name: Helpdesk Inquiry
 about: Submit your Issue
 title: ''
-labels: ''
+labels: Helpdesk
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Workshop Documentation
 about: Announce and document a workshop
 title: ''
-labels: ''
+labels: Workshop
 assignees: ''
 
 ---
